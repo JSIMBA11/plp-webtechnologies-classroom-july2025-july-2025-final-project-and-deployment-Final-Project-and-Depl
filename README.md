@@ -25,9 +25,7 @@ magnol-limited/
 1. Open `index.html` in a browser (works locally).
 2. Deploy options:
    - **GitHub Pages**: push repo, enable Pages
-   - **Netlify**: drag & drop folder or connect repo
-   - **Vercel**: import project and deploy
 
-## Credits
-- Template code structured from HTML5 + CSS3 best practices
-- Placeholder images (logo, directors, projects) included for demo. Replace with official assets.
+
+deployment link here https://jsimba11.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
+
